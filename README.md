@@ -1,9 +1,9 @@
-# 📚 Assignments Repository
+# 📚 Ednah's Assignment Repository
 
 Welcome to my assignments repository! Here, you will find my academic tasks, projects, and coursework, all neatly organized for easy access.  
 
 ## 📌 About  
-I keep my assignments structured and well-documented to ensure clarity and ease of reference. Each folder represents a different subject or topic, with files inside containing detailed explanations.
+I keep my assignments structured and well-documented to ensure clarity and ease of reference.
 
 ## 📩 Contact Me  
 Need assistance or have inquiries? Reach out via WhatsApp!  
